@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: coral;
+    text-align: center;
+    height: 100%;
+}
+
+.banner{
+    background-color: deeppink;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.left-content{
+    background-color: gold;
+    text-align: center;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.right-content{
+    background-color: rgb(64, 255, 47);
+    text-align: center;
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+.second-content{
+    overflow: hidden;
+}
+.long-content{
+    background-color: rgb(50, 47, 255);
+    color: white;
+    text-align: center;
+    height: 150px;
+    width: 70%;
+    float: left;
+}
+.short-content{
+    background-color: violet;
+    text-align: center;
+    height: 150px;
+    width: 30%;
+    float: right;
+}
+
+.third-content{
+    overflow: hidden;
+}
+.third-first{
+    background-color: crimson;
+    color: cyan;
+    height: 100px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.third-second{
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+    height: 100px;
+    width: 25%;
+    text-align: center;
+    float: left;
+    
+}
+.third-third{
+    background-color: springgreen;
+    height: 100px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.third-fourth{
+    background-color: purple;
+    color: powderblue;
+    height: 100px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+.footer{
+    background-color: rgb(38, 255, 0);
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    
+}
